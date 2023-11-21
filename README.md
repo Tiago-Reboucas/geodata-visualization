@@ -5,7 +5,7 @@
 - Adquire os dados de geolocalicação (Latitude, Longitude e Endereço completo) através do Google Geocode API (ou dr-chuck API caso não tenha uma chave);
 - Salva os Geodados no banco de dados `geodata.sqlite`;
 - Escreve um arquivo `where.js` que será usado para abrir todas as localidades em um mapa através do `where.html` (arquivos .html e .data cedidos por [dr-chuck](https://py4e-data.dr-chuck.net/));
-
+---
 - *Opens the file `where.data` with various locations around the globe*;
 - *Get their Geodata (Latitude, Longitude and Full address) on Google Geocode API (or dr-chuck API if you haven't a key)*;
 - *Save the Geodata in the database `geodata.sqlite`;*
@@ -21,7 +21,7 @@
 
 ### Recomendações / Recomendations
 - Ajuste o `max_count` na ***linha 47*** em `geodata_load.py` para alterar quantas procuras o programa deverá fazer antes de perguntar por mais (padrão 50).
-
+---
 - *Set the `max_count` in `geodata_load.py` ***line 47*** to change how many searches the program will do before asking for more (default 50)*.
 
 ### Como Usar / How to use
@@ -30,7 +30,7 @@
 3. Se o programa rodar todo o arquivo `where.data` ou for selecionado **"N"** quando perguntado, o programa irá perguntar se deseja rodar `geodata_dump.py`;
 4. Rode `geodata_dump.py` para escrever os dados do banco de dados em `where.js`;
 5. Abra `where.html` em um browser de internet para visualizar todas as localidades em um mapa mundi.
-
+---
 1. *If you have a ***Google Geocode API Key***, open `geodata_load.py` with an editor, uncomment the ***line 13*** and insert your key in `api_key = ""`*;
 2. *Run `geodata_load.py`, the program will scan `where.data` and create the database `geodata.sqlite`*;
 3. *If the program ends with the `where.data` or you select **"N"** when prompted, the program will ask to run `geodata_dump.py`*;
