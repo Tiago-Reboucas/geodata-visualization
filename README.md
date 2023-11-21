@@ -38,6 +38,7 @@
 5. *Open `where.html` in a browser to visualize all the locations around the globe*.  
 
 <p>&nbsp;</p>
+
 OBS: Créditos para [dr-chuck](https://py4e-data.dr-chuck.net/) por prover `where.data` e `where.html`, necessários para este projeto.
 ---
-*OBS: Credits to [dr-chuck](https://py4e-data.dr-chuck.net/) for providing `where.data` and `where.html` so this project could be made.*
+*OBS: Credits to [dr-chuck](https://py4e-data.dr-chuck.net/) for providing `where.data` and `where.html` so this project could be made*.
