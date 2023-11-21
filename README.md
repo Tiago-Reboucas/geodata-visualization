@@ -35,8 +35,9 @@
 2. *Run `geodata_load.py`, the program will scan `where.data` and create the database `geodata.sqlite`*;
 3. *If the program ends with the `where.data` or you select **"N"** when prompted, the program will ask to run `geodata_dump.py`*;
 4. *Run `geodata_dump.py` to write the database data in the `where.js`*;
-5. *Open `where.html` in a browser to visualize all the locations around the globe*.
+5. *Open `where.html` in a browser to visualize all the locations around the globe*.  
 
+<p>&nbsp;</p>
 OBS: Créditos para [dr-chuck](https://py4e-data.dr-chuck.net/) por prover `where.data` e `where.html`, necessários para este projeto.
-
+---
 *OBS: Credits to [dr-chuck](https://py4e-data.dr-chuck.net/) for providing `where.data` and `where.html` so this project could be made.*
