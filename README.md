@@ -37,8 +37,8 @@
 4. *Run `geodata_dump.py` to write the database data in the `where.js`*;
 5. *Open `where.html` in a browser to visualize all the locations around the globe*.
 
-<p>&nbsp;</p>
+<p>&nbsp;</p><p>&nbsp;</p>
 
-*OBS: Créditos para [dr-chuck](https://py4e-data.dr-chuck.net/) por prover `where.data` e `where.html`, necessários para este projeto*.  
+OBS: Créditos para [dr-chuck](https://py4e-data.dr-chuck.net/) por prover `where.data` e `where.html`, necessários para este projeto.  
 ---
 *OBS: Credits to [dr-chuck](https://py4e-data.dr-chuck.net/) for providing `where.data` and `where.html` so this project could be made*.
