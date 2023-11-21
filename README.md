@@ -39,6 +39,6 @@
 
 <p>&nbsp;</p><p>&nbsp;</p>
 
-OBS: Créditos para [dr-chuck](https://py4e-data.dr-chuck.net/) por prover `where.data` e `where.html`, necessários para este projeto.  
+<p>OBS: Créditos para [dr-chuck](https://py4e-data.dr-chuck.net/) por prover `where.data` e `where.html`, necessários para este projeto.</p>  
 ---
 *OBS: Credits to [dr-chuck](https://py4e-data.dr-chuck.net/) for providing `where.data` and `where.html` so this project could be made*.
